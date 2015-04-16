@@ -43,7 +43,7 @@
         userPassword: '你的使用者密碼'
 
 - 最後用瀏覽器打開 test/index.html 就可以看到測試結果了
-
+- Also use (http://fbi8101084.github.io/pixnet-js-sdk/test/)[http://fbi8101084.github.io/pixnet-js-sdk/test/]
 ## 聯絡我們
 
 Email: pixnetapi@pixnet.tw
